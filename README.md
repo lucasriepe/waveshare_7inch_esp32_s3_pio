@@ -1,4 +1,4 @@
-# test
+# Waveshare 7inch ESP32-S3 Platform IO
 
 Arduino project exported from **boardport** for the **Waveshare ESP32-S3 Touch LCD 7** development board (800×480, capacitive GT911 touch, RGB interface, CH422G I/O expander).
 
